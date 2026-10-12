@@ -4,7 +4,7 @@
 
 这是一个纯静态网站。网页入口是 `dist/index.html`，图片也全部位于 `dist/`。
 
-公开网站：<https://liuliy6.github.io/zhuhai-day-trip/>
+公开网站：<https://gozhuhai.github.io/>
 
 - 不需要 Node.js 依赖，也没有 `package.json` 或锁文件。
 - 不需要构建步骤。
@@ -19,8 +19,8 @@
 先安装 Git，然后在终端运行：
 
 ```powershell
-git clone https://github.com/LIULIY6/zhuhai-day-trip.git
-cd zhuhai-day-trip
+git clone https://github.com/gozhuhai/gozhuhai.github.io.git
+cd gozhuhai.github.io
 ```
 
 本项目没有依赖，因此**不用运行 `npm install`**。
